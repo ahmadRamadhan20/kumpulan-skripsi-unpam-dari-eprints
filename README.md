@@ -1,6 +1,4 @@
-semua data yang ada disini saya ambil dari eprints unpam.
-di update setiap hari.
-terimakasih.
+semua data yang ada disini saya ambil dari eprints Unpam.
 
 next update : fitur download melalui google drive
 Ahmad Ramadhan
